@@ -19,5 +19,6 @@ public class MyTest
     public static void main(String[] args)
     {
         System.out.println("andy git test...");
+        System.out.print("添加。。。。。。。。");
     }
 }
